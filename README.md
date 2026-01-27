@@ -32,3 +32,12 @@ Infra: Docker
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uiwook&show_icons=true&hide_border=true)
 
+---
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=uiwook&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/uiwook"
+  width="600"
+  height="300"
+/>
+</a>
