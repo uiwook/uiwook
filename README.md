@@ -29,8 +29,9 @@ Infra: Docker
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uiwook&show_icons=true&hide_border=true)
+## 🏙 Career
+### 노바소프트 (26.02 ~ 재직중)
+정보보안 솔루션 전문 기업에서 코어개발자로 근무중.
 
 ---
 
